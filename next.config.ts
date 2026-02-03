@@ -6,15 +6,10 @@
 
 // export default nextConfig;
 
-
-
-
-
-
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  turbopack: false,
+  // turbopack: false,
 };
 
 export default nextConfig;
